@@ -1,4 +1,4 @@
-[ ] Faça um programa que SOME 2 números
+[X] Faça um programa que SOME 2 números
 
 [ ] Faça um programa que multiplique 2 números e o resultado adicione 10
 
