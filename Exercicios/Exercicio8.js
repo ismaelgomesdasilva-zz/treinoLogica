@@ -11,26 +11,26 @@ let ClienteTwo = {
     Age: 24,
     Address: 'Rua avaro severo',
     AddressNumber: 23,
-    tags: ['academy', 'Front-end', 'Reactjs']
+    tags: ['academy', 'Front-end', 'Vuejs']
 }
 let ClienteThree = {
-    Name: 'Ismael',
-    Age: 21,
-    Address: 'Rua teresa Penoy',
-    AddressNumber: 160,
-    tags: ['academy', 'Front-end', 'Reactjs']
+    Name: 'Mateus',
+    Age: 11,
+    Address: 'Rua aonde Judas Perdeu as botas',
+    AddressNumber: 110,
+    tags: ['Back-End', 'Java']
 }
 let ClienteFour = {
-    Name: 'Ismael',
-    Age: 21,
-    Address: 'Rua teresa Penoy',
-    AddressNumber: 160,
-    tags: ['academy', 'Front-end', 'Reactjs']
+    Name: 'Maria',
+    Age: 40,
+    Address: 'Rua Batatinha Com cheedar',
+    AddressNumber: 200,
+    tags: ['Devops', 'figma', 'Reactjs']
 }
 let ClienteFive = {
-    Name: 'Ismael',
+    Name: 'Leticia',
     Age: 21,
     Address: 'Rua teresa Penoy',
-    AddressNumber: 160,
+    AddressNumber: 110,
     tags: ['academy', 'Front-end', 'Reactjs']
 }
