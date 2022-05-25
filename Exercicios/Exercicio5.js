@@ -3,5 +3,4 @@
 let nameOne = 'Ismael'
 let nameTwo = 'Esmael'
 let result = nameOne === nameTwo
-
 console.log(result)
